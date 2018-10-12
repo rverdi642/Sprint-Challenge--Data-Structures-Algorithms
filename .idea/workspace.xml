@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="74cb7fc7-af16-4ace-aa52-8d421c8b17db" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/algorithms/Algorithms_Answers.md" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/Algorithms_Answers.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures/Data_Structures_Answers.md" beforeDir="false" afterPath="$PROJECT_DIR$/data_structures/Data_Structures_Answers.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,13 +32,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="1102" />
+          <entry key="md" value="1316" />
           <entry key="py" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="1102" />
+          <entry key="Markdown" value="1316" />
           <entry key="Python" value="1" />
         </counts>
       </usages-collector>
@@ -52,8 +51,8 @@
         <entry file="file://$PROJECT_DIR$/algorithms/Algorithms_Answers.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="391">
-                <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+              <first_editor relative-caret-position="357">
+                <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -125,10 +124,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="505" />
-    <option name="y" value="18" />
+    <option name="x" value="630" />
     <option name="width" value="1578" />
-    <option name="height" value="990" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -191,7 +189,7 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="404" y="15" width="1262" height="792" extended-state="0" />
+    <frame x="504" y="0" width="1262" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20163265" />
@@ -255,8 +253,8 @@
     <entry file="file://$PROJECT_DIR$/algorithms/Algorithms_Answers.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="391">
-            <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+          <first_editor relative-caret-position="357">
+            <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />

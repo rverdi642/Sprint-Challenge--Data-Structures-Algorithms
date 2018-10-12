@@ -11,7 +11,7 @@ c) O(n)
 
 Exercise II
 
-probably a quick sort approach, partition the floors (fl),
+ partition the floors (fl),
 
  fl_base = math.ceil(fl_above/2)
  top = floors
@@ -21,17 +21,20 @@ probably a quick sort approach, partition the floors (fl),
  flUp()
     bottom = fl_base
     floors above = top - bottom
+    fl_base = fl_base + math.ceil( floors_above / 2)
+    
  flDown()
         top = fl_base
         floor_below = top - bottom
-        fl_base -= math.ceil(floor_below / 2)
+        fl_base = fl_base -math.ceil(floor_below / 2)
 
-
- while fl_base
-if broken egg call flDown
+ while fl_base > 0
+   if fl_base > 0 flDown
+        broken_eggs =broken_eggs + 1
+    return fl_base, broken eggs
 
 elif fl_base > fl
     broken_eggs = 0
-    flUp
+    flUp()
 else
-flDown
+    flDown()
